@@ -1,0 +1,54 @@
+---
+type: event
+title: New Student Orientation
+summary: Mock listing based on RDP's academic schedule. Orientation gives new students a campus starting point before fall classes begin.
+date: 2025-09-02
+audience: students
+category: Student Life
+location: RDP Main Campus
+link: https://rdpolytech.ca/about-us/services-departments/office-registrar/important-dates
+---
+type: event
+title: First day of Fall classes
+summary: Fall term starts. Use this as a high-visibility campus rhythm marker across the homepage, alert rail, and weekly timeline.
+date: 2025-09-03
+audience: students faculty staff
+category: Academic
+location: RDP campuses and online
+link: https://rdpolytech.ca/about-us/services-departments/office-registrar/important-dates
+---
+type: event
+title: Alberta Corridor Technical Symposium
+summary: RDP hosts the third annual symposium with NAIT and SAIT, bringing applied research, industry partners, and innovation-focused presentations into one day.
+date: 2025-09-18
+audience: students faculty community
+category: Research
+location: Red Deer Polytechnic
+link: https://rdpolytech.ca/events/alberta-corridor-technical-symposium
+---
+type: event
+title: Stitch N' B*tch
+date: 2025-09-23
+summary: SARDP event listing for a midday creative/social gathering in the Peer Lounge.
+audience: students
+category: Student Association
+location: Peer Lounge 2002A
+link: https://sardp.ca/event/stitch-n-btch/2025-09-23/
+---
+type: event
+title: Truth and Reconciliation Flag Raising
+summary: The RDP schedule lists a flag raising from 9 to 9:30 a.m. at the main campus flag poles.
+date: 2025-09-29
+audience: students faculty staff
+category: Community
+location: Main campus flag poles
+link: https://rdpolytech.ca/events/national-day-truth-and-reconciliation
+---
+type: event
+title: TRC Presentation and Soup and Bannock Lunch
+summary: RDP's public schedule includes a presentation with Jerry Saddleback at the Arts Centre Mainstage and a Soup and Bannock Lunch in the Arts Centre Foyer.
+date: 2025-09-29
+audience: students faculty staff
+category: Indigenous Learning
+location: Arts Centre
+link: https://rdpolytech.ca/events/national-day-truth-and-reconciliation

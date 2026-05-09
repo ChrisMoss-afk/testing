@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Grey news placeholder">
+  <rect width="1200" height="700" fill="#E5ECE8"/>
+  <path d="M0 520 L240 390 L410 470 L650 300 L1200 610 L1200 700 L0 700 Z" fill="#CAD6CF"/>
+  <circle cx="980" cy="150" r="80" fill="#D7E0DB"/>
+  <rect x="80" y="78" width="380" height="34" rx="17" fill="#B7C5BE"/>
+  <rect x="80" y="128" width="620" height="26" rx="13" fill="#CFD9D4"/>
+  <text x="80" y="620" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#75847D">Grey news placeholder</text>
+</svg>

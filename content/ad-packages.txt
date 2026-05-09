@@ -1,0 +1,42 @@
+---
+type: Sponsored Utility
+title: Student Deal Spotlight
+summary: One clearly labelled card on the homepage or student deals rail. Best for food, retail, transit-adjacent, wellness, and service offers that students can actually use.
+price: $150 / 2 weeks
+best_for: Local businesses testing campus demand
+---
+type: Sponsored Visibility
+title: Homepage Sponsor Card
+summary: A larger labelled placement in the dashboard row. Limited inventory protects trust and prevents the homepage from turning into a banner farm.
+price: $300 / month
+best_for: Local brands needing broad awareness
+---
+type: Employment Revenue
+title: Standard Work Board Posting
+summary: Employer-submitted job, volunteer, seasonal, internship, or entry-level opportunity reviewed before publication.
+price: $35 / 30 days
+best_for: Local employers hiring students
+---
+type: Employment Revenue
+title: Featured Employer Spotlight
+summary: High-visibility employer card on the Work Board plus optional homepage teaser. Must be visibly labelled and student-relevant.
+price: $175 / 2 weeks
+best_for: Employers with recurring student hiring needs
+---
+type: Sponsored Context
+title: Event Category Sponsor
+summary: Paid support for a specific category such as Student Life, Career, Wellness, Research, or Athletics. Sponsor appears beside, not inside, editorial listings.
+price: $250 / month
+best_for: Contextual local partners
+---
+type: Sponsored Media
+title: Watch Campus Pre-Roll Card
+summary: A labelled sponsor card beside a featured video, not an intrusive auto-play ad. Useful for visual brands and student-facing offers.
+price: $200 / campaign
+best_for: Brands that benefit from video adjacency
+---
+type: Recurring Reach
+title: Newsletter Sponsor
+summary: A single labelled placement in a future weekly Pulse email. This becomes stronger after email signups and open-rate metrics are proven.
+price: TBD after validation
+best_for: Repeat exposure

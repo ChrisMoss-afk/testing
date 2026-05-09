@@ -1,0 +1,45 @@
+---
+type: video
+feature: true
+platform: youtube
+title: September at RDP: Start Here
+summary: Mock video card for a one-minute campus launch reel covering orientation, add/drop deadlines, work board launch, and where to find weekly updates.
+date: 2025-09-02
+audience: students
+category: Orientation
+orientation: horizontal
+embed_url: https://www.youtube.com/embed/VIDEO_ID
+canonical_url: media.html
+---
+type: video
+platform: tiktok
+title: 5 things to know before September 11
+summary: Mock vertical short explaining the fall add/drop and refund deadline in student-friendly language.
+date: 2025-09-08
+audience: students
+category: Deadline Explainer
+orientation: vertical
+embed_url: https://www.tiktok.com/embed/TIKTOK_ID
+canonical_url: media.html
+---
+type: video
+platform: instagram
+title: Watch Campus: Applied research day recap
+summary: Mock reel placeholder for quick clips from the Alberta Corridor Technical Symposium.
+date: 2025-09-18
+audience: students community alumni
+category: Research
+orientation: vertical
+embed_url: https://www.instagram.com/reel/REEL_ID/embed
+canonical_url: media.html
+---
+type: video
+platform: local
+title: Truth and Reconciliation learning route
+summary: Mock local video card that would introduce the September 29 programming and explain where students can attend.
+date: 2025-09-26
+audience: students faculty staff
+category: Indigenous Learning
+orientation: horizontal
+embed_url: assets/placeholders/trc-video-placeholder.mp4
+canonical_url: https://rdpolytech.ca/events/national-day-truth-and-reconciliation

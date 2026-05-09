@@ -1,0 +1,41 @@
+---
+type: news
+feature: true
+title: September 2025 campus command center goes live in prototype mode
+summary: Polytechnic Pulse V2.25 shows how a live month could be organized: orientation, deadlines, campus events, employment opportunities, video, resources, and sponsor inventory in one hub.
+date: 2025-09-02
+audience: students faculty staff
+category: Product Update
+link: about.html
+---
+type: news
+title: New Sonography Lab adds hands-on training capacity
+summary: Mock summary based on RDP's September 10, 2025 news release. The lab gives Diagnostic Medical Sonography students a dedicated space for simulation, lab work, and career preparation.
+date: 2025-09-10
+audience: students community alumni
+category: Health Sciences
+link: https://rdpolytech.ca/news/new-sonography-lab-adds-innovative-training-space-albertas-future-sonographers
+---
+type: news
+title: RDP, NAIT, and SAIT showcase applied research at technical symposium
+summary: Mock summary based on the September 18, 2025 symposium. The event highlights Alberta polytechnic collaboration, applied research, industry projects, and student poster visibility.
+date: 2025-09-18
+audience: students faculty community alumni
+category: Research
+link: https://rdpolytech.ca/news/rdp-nait-sait-showcase-innovative-applied-research-technical-symposium
+---
+type: news
+title: Work Board added as a student utility and revenue stream
+summary: The employment board gives students a reason to return and gives local employers a structured path to reach student talent without cluttering the editorial feed.
+date: 2025-09-24
+audience: students community
+category: Platform Build
+link: jobs.html
+---
+type: news
+title: Student attention should route, not replace, official sources
+summary: The hub remains a signal layer. It pushes users toward official RDP, SARDP, CEED, and service pages when those sources are the source of truth.
+date: 2025-09-26
+audience: faculty staff community
+category: Governance
+link: about.html#standards

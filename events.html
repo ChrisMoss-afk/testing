@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Polytechnic Pulse V2.25 is a centralized campus information and student opportunity hub prototype for Red Deer Polytechnic.">
+  <title>Polytechnic Pulse V2.25 | Events</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="events">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- §§ COMMENT: Site shell. This header is intentionally compact so the homepage feels like a dashboard, not a long brochure. -->
+  <header class="site-header" data-site-header>
+    <div class="brand-strip" aria-label="Prototype status">
+      <span>Prototype V2.25</span>
+      <span>Built for easy content replacement</span>
+      <span>RDP-aligned brand palette</span>
+    </div>
+
+    <nav class="nav-shell" aria-label="Primary navigation">
+      <a class="brand-lockup" href="index.html" aria-label="Polytechnic Pulse home">
+        <span class="brand-mark" aria-hidden="true">P</span>
+        <span>
+          <strong data-site-title>Polytechnic Pulse</strong>
+          <em data-site-tagline>RDP campus information hub</em>
+        </span>
+      </a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-menu" data-nav-toggle>
+        <span class="screen-reader-text">Toggle menu</span>
+        <span></span><span></span><span></span>
+      </button>
+
+      <div class="nav-links" id="primary-menu" data-nav-menu>
+        <a href="index.html">Today</a>
+        <a href="updates.html">Updates</a>
+        <a href="events.html">Events</a>
+        <a href="jobs.html">Jobs</a>
+        <a href="media.html">Watch</a>
+        <a href="submit-event.html">Submit</a>
+        <a href="advertise.html">Advertise</a>
+        <a href="about.html">About</a>
+      </div>
+    </nav>
+  </header>
+<main id="main">
+  <section class="page-hero">
+    <div class="container page-hero-grid">
+      <div>
+        <p class="eyebrow">Campus calendar layer</p>
+        <h1>One place to see what is happening next.</h1>
+        <p class="lede">Events are organized by date, audience, and category so students can scan the week without digging through separate department pages.</p>
+      </div>
+      <a class="button button-primary" href="submit-event.html">Submit an Event</a>
+    </div>
+  </section>
+
+  <section class="section-tight">
+    <div class="container section-heading-inline">
+      <div>
+        <p class="eyebrow">Timeline</p>
+        <h2>Upcoming events</h2>
+      </div>
+      <a class="text-link" href="submit-event.html">Need to add something?</a>
+    </div>
+    <div class="container timeline" data-events-timeline></div>
+  </section>
+
+  <section class="section-tight">
+    <div class="container two-column-callout">
+      <div>
+        <p class="eyebrow">Submission standard</p>
+        <h2>Better inputs create better campus visibility.</h2>
+      </div>
+      <p>Event submissions should include confirmed time, location, audience, registration link, accessibility notes, and a real contact. The hub becomes credible only if intake is disciplined.</p>
+    </div>
+  </section>
+</main>
+
+  <!-- §§ COMMENT: Footer closes the loop with ownership, governance, and content-maintenance signals. -->
+  <footer class="site-footer">
+    <div class="footer-grid">
+      <div>
+        <p class="eyebrow">Polytechnic Pulse</p>
+        <h2>A campus signal layer, not another link farm.</h2>
+        <p>This prototype is structured so future editors can update campus content through plain text files before the project moves into a full CMS.</p>
+      </div>
+      <div>
+        <h3>Operate</h3>
+        <a href="submit-event.html">Submit an event</a>
+        <a href="jobs.html#post-job">Post a student opportunity</a>
+        <a href="advertise.html">Sponsor the hub</a>
+        <a href="about.html#standards">Editorial standards</a>
+      </div>
+      <div>
+        <h3>Content Files</h3>
+        <a href="content/news.txt">news.txt</a>
+        <a href="content/events.txt">events.txt</a>
+        <a href="content/jobs.txt">jobs.txt</a>
+        <a href="content/videos.txt">videos.txt</a>
+      </div>
+    </div>
+    <p class="fine-print">Prototype only. Official public use of RDP and SARDP marks should be approved by the appropriate brand owners before launch.</p>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>

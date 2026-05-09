@@ -1,0 +1,91 @@
+---
+type: job
+title: Weekend Event Crew Assistant
+employer: Central Alberta Event Crew
+date: 2025-09-05
+job_type: part-time
+field: hospitality
+location: Red Deer / event sites
+schedule: Evenings and weekends, 8-16 hours/week
+compensation: $18-$21/hour
+student_fit: Hospitality, business, kinesiology, arts, and student leaders
+summary: Mock posting. Support guest flow, setup, teardown, and event operations during September community events. Good fit for students who can communicate clearly and move fast without needing a full weekday schedule.
+link: jobs.html#post-job
+---
+type: job
+title: Junior Bookkeeping Assistant
+employer: Riverbend Market Collective
+date: 2025-09-09
+job_type: part-time
+field: business
+location: Downtown Red Deer / hybrid
+schedule: 10 hours/week, flexible afternoons
+compensation: $20/hour
+student_fit: Business, accounting, administration, and marketing students
+summary: Mock posting. Help reconcile receipts, update vendor records, and prepare simple weekly sales reports. Designed for a student building practical bookkeeping and small-business operations experience.
+link: jobs.html#post-job
+---
+type: job
+title: Makerspace Lab Monitor
+employer: Pulse Campus Partner Mock Listing
+date: 2025-09-12
+job_type: part-time
+field: technology
+location: RDP Main Campus
+schedule: Two weekday shifts, 6-10 hours/week
+compensation: Honorarium / campus rate TBD
+student_fit: Technology, design, trades, education, and engineering technology students
+summary: Mock campus opportunity. Support safe tool use, help students sign in, keep materials organized, and escalate technical issues. Ideal for students comfortable around equipment and peer support.
+link: jobs.html#post-job
+---
+type: job
+title: Health Clinic Front Desk Support
+date: 2025-09-17
+employer: Central Alberta Wellness Group
+job_type: part-time
+field: health
+location: South Red Deer
+schedule: Weekday afternoons, 12 hours/week
+compensation: $19/hour
+student_fit: Health, business, social work, and administrative students
+summary: Mock posting. Handle appointment intake, front-desk flow, filing, and client-facing communication in a professional wellness setting.
+link: jobs.html#post-job
+---
+type: job
+title: Entry-Level Shop Helper
+employer: Gaetz Avenue Fabrication
+date: 2025-09-22
+job_type: entry-level
+field: trades
+location: Red Deer industrial area
+schedule: Fridays and Saturdays, 12-18 hours/week
+compensation: $21/hour
+student_fit: Trades, engineering technology, apprenticeship-curious, and hands-on students
+summary: Mock posting. Assist with shop organization, materials handling, tool staging, and basic production support. Designed as a gateway role for students exploring trades or technical work.
+link: jobs.html#post-job
+---
+type: job
+title: Community Program Volunteer Coordinator Assistant
+employer: Red Deer Community Connections
+date: 2025-09-24
+job_type: volunteer
+field: community
+location: Red Deer / hybrid
+schedule: Flexible, project-based
+compensation: Volunteer role with reference letter
+student_fit: Social work, education, justice studies, psychology, and nonprofit-minded students
+summary: Mock opportunity. Help organize volunteer signups, confirm attendance, prepare event materials, and support basic outreach for September and October community programming.
+link: jobs.html#post-job
+---
+type: job
+title: Seasonal Retail Associate
+date: 2025-09-26
+employer: Bower Retail Group
+job_type: seasonal
+field: business
+location: Red Deer retail district
+schedule: Evenings/weekends, 8-20 hours/week
+compensation: $17.50/hour plus employee discount
+student_fit: Business, marketing, communications, and students seeking flexible work
+summary: Mock posting. Student-friendly seasonal retail position focused on customer service, merchandising, and weekend floor support before the holiday hiring period ramps up.
+link: jobs.html#post-job

@@ -1,0 +1,40 @@
+---
+type: deadline
+title: Last day to apply for Fall term
+date: 2025-09-01
+summary: Mock deadline listing based on RDP's 2025/2026 Academic Schedule.
+audience: students
+category: Registrar
+link: https://rdpolytech.ca/about-us/services-departments/office-registrar/important-dates
+---
+type: deadline
+title: Last day to apply for Supplemental Exams
+date: 2025-09-08
+summary: Students eligible for supplemental exams should confirm process and timing before the September 8 date.
+audience: students
+category: Registrar
+link: https://rdpolytech.ca/about-us/services-departments/office-registrar/important-dates
+---
+type: deadline
+title: Last day to register, add, or drop Fall courses
+date: 2025-09-11
+summary: Fall term and full-year course changes should be completed by this date. The academic schedule also lists this as the last day for tuition refund.
+audience: students
+category: Registrar
+link: https://rdpolytech.ca/about-us/services-departments/office-registrar/important-dates
+---
+type: deadline
+title: Fall Student Benefits Plan opt-out / re-activate / family add deadline
+date: 2025-09-15
+summary: SARDP lists September 15, 2025 at 4 p.m. as the Fall 2025 deadline for benefit plan changes.
+audience: students
+category: SARDP
+link: https://sardp.ca/healthdental/
+---
+type: deadline
+title: National Day for Truth and Reconciliation closure
+date: 2025-09-30
+summary: RDP is closed. The hub should treat this as both a closure notice and a route to related learning/event information.
+audience: students faculty staff community
+category: Campus Operations
+link: https://rdpolytech.ca/events/national-day-truth-and-reconciliation

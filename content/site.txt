@@ -1,0 +1,8 @@
+title: Polytechnic Pulse
+tagline: RDP campus information hub
+mission: Polytechnic Pulse turns September 2025 campus activity into one searchable signal: dates, stories, events, student work, video, resources, and sponsor offers.
+submission_email: pulse-submissions@example.com
+advertising_email: pulse-sponsors@example.com
+employment_email: pulse-jobs@example.com
+last_updated: 2025-09-29
+mock_month: September 2025
