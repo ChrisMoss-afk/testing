@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- §§ COMMENT: Core metadata §§ -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Coming Soon</title>
+
+  <style>
+    /* §§ COMMENT: Design tokens §§ */
+    :root {
+      --bg: #0d1117;
+      --surface: #111827;
+      --text: #ffffff;
+      --muted: #c9d1d9;
+      --accent: #32154F;
+      --border: rgba(255, 255, 255, 0.14);
+      --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+      --radius: 28px;
+    }
+
+    /* §§ COMMENT: Reset §§ */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body {
+      width: 100%;
+      min-height: 100%;
+    }
+
+    body {
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(50, 21, 79, 0.45), transparent 34%),
+        linear-gradient(135deg, var(--bg), #05070a);
+      color: var(--text);
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    /* §§ COMMENT: Main holding frame §§ */
+    .coming-soon {
+      width: min(100%, 760px);
+      padding: clamp(48px, 8vw, 96px) 32px;
+      background: rgba(17, 24, 39, 0.78);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      text-align: center;
+      backdrop-filter: blur(14px);
+    }
+
+    /* §§ COMMENT: Primary message §§ */
+    .coming-soon__title {
+      font-size: clamp(3rem, 10vw, 7.5rem);
+      font-weight: 900;
+      line-height: 0.92;
+      letter-spacing: -0.08em;
+      text-transform: uppercase;
+    }
+
+    /* §§ COMMENT: Minimal accent line §§ */
+    .coming-soon__rule {
+      width: 96px;
+      height: 4px;
+      margin: 32px auto 0;
+      background: var(--accent);
+      border-radius: 999px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- §§ COMMENT: Coming soon screen §§ -->
+  <main class="coming-soon" aria-label="Coming soon page">
+    <h1 class="coming-soon__title">Coming Soon</h1>
+    <div class="coming-soon__rule" aria-hidden="true"></div>
+  </main>
+</body>
+</html>
